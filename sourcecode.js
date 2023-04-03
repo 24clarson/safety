@@ -1,0 +1,1 @@
+javascript:document.getElementsByTagName('html')[0].innerHTML='<plaintext>'+document.getElementsByTagName('html')[0].innerHTML;
